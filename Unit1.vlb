@@ -1,0 +1,17 @@
+﻿[TaskListBox]
+Coordinates=10,10,116,213
+Visible=True
+
+[AddTaskEdit]
+Coordinates=159,10,77,51
+ExplicitSubNodes=
+
+[ADD]
+Coordinates=256,10,40,51
+
+[LabelAddTask]
+Coordinates=307,10,84,51
+
+[]
+Coordinates=145,80,82,33
+

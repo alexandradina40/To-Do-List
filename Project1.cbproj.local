@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/09/12 18:40:21.000.678,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/09/12 18:40:21.000.942,=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/12 18:40:43.000.866,C:\Users\user\Desktop\c++\TO-DO-LIST\Project1PCH1.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/09/12 18:40:43.000.835,C:\Users\user\Desktop\c++\TO-DO-LIST\Unit1.cpp=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/09/12 18:40:43.000.928,C:\Users\user\Desktop\c++\TO-DO-LIST\Project1.cbproj=C:\Users\user\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/09/12 18:40:43.000.835,C:\Users\user\Desktop\c++\TO-DO-LIST\Unit1.h=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/09/12 18:40:43.000.835,C:\Users\user\Desktop\c++\TO-DO-LIST\Unit1.fmx=C:\Users\user\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/09/12 18:40:48.000.225,C:\Users\user\Desktop\c++\TO-DO-LIST\Project1.cbproj=C:\Users\user\Desktop\c++\TO-DO-LIST\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

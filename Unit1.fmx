@@ -1,0 +1,69 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 364
+  ClientWidth = 545
+  Fill.Color = xFFBAF7C5
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object LabelAddTask: TLabel
+    StyledSettings = []
+    Position.X = 56.000000000000000000
+    Position.Y = 24.000000000000000000
+    Size.Width = 545.000000000000000000
+    Size.Height = 32.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'listboxheaderlabel'
+    TextSettings.Font.Family = 'Arial Rounded MT'
+    TextSettings.Font.Size = 16.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    Text = 'Add Task:'
+    TabOrder = 0
+  end
+  object ADD: TButton
+    StyledSettings = [Size, FontColor]
+    Position.X = 352.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 145.000000000000000000
+    Size.Height = 41.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'AddTaskButton'
+    TextSettings.Font.Family = 'Arial Rounded MT'
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    OnClick = ADDClick
+  end
+  object TaskListBox: TListBox
+    Position.X = 56.000000000000000000
+    Position.Y = 160.000000000000000000
+    Size.Width = 297.000000000000000000
+    Size.Height = 169.000000000000000000
+    Size.PlatformDefault = False
+    StyleLookup = 'TaskListBoxStyle1'
+    TabOrder = 2
+    DisableFocusEffect = True
+    DefaultItemStyles.ItemStyle = 'listboxitemstyle'
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    OnItemClick = TaskListBoxItemClick
+    Viewport.Width = 293.000000000000000000
+    Viewport.Height = 165.000000000000000000
+  end
+  object AddTaskEdit: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 3
+    TextSettings.Font.Family = 'Arial Rounded MT'
+    TextSettings.Font.Size = 18.000000000000000000
+    TextSettings.Font.StyleExt = {00070000000000000004000000}
+    Position.X = 56.000000000000000000
+    Position.Y = 64.000000000000000000
+    Size.Width = 201.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    StyledSettings = [FontColor]
+  end
+end
